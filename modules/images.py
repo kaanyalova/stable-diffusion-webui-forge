@@ -13,6 +13,7 @@ import numpy as np
 import piexif
 import piexif.helper
 from PIL import Image, ImageFont, ImageDraw, ImageColor, PngImagePlugin
+import pillow_avif
 import string
 import json
 import hashlib
